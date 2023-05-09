@@ -208,9 +208,12 @@ int main(int argc, char **argv)
 
 ![xp 2 img 1](https://github.com/hashish9275/PCA-Matrix-summation-with-a-2D-grid-and-2D-blocks.-Adapt-it-to-integer-matrix-addition.-/assets/118707521/34e9d3e2-7609-4ea2-82a4-adcfc30f60fb)
 
+```
 Matrix initialization : 6.338138 sec.
 Sum matrix on Host : 0.884061 sec.
 Sum matrix on GPU2D : 0.012146 sec.
-
+```
 ## Result:
+```
           Integer Matrix summation with a 2D-grid and 2D-blocks is performed and the best execution configuration is found successfully.
+```
