@@ -214,6 +214,6 @@ Sum matrix on Host : 0.884061 sec.
 Sum matrix on GPU2D : 0.012146 sec.
 ```
 ## Result:
-```
-          Integer Matrix summation with a 2D-grid and 2D-blocks is performed and the best execution configuration is found successfully.
-```
+ Integer Matrix summation with a 2D-grid and 2D-blocks is performed and the best execution configuration is found 
+ successfully.
+
